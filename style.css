@@ -791,7 +791,7 @@ https://www.youtube.com/watch?v=cf-J4ffMBfo
 
 
 .plants {
-  padding-block: 4rem;  /* Avstånd upp och ner runt hela sektionen */
+  padding-block: 1rem;  /* Avstånd upp och ner runt hela sektionen */
 
   h2 {
     margin-bottom: 2rem;
